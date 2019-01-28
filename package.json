@@ -1,0 +1,11 @@
+{
+  "name": "koa2-video-stream-sample",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": "https://github.com/starfeeling/koa2-video-stream-sample",
+  "author": "Archer",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server.js"
+  },
+}
